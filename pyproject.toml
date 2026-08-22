@@ -1,0 +1,5 @@
+[project]
+name='tactical-telemetry-fusion-engine'
+version='0.1.0'
+requires-python='>=3.11'
+description='Defensive synthetic aerospace telemetry integration demo'
